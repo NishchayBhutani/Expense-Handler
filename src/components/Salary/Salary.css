@@ -1,0 +1,18 @@
+.sal{
+    color:white;
+}
+.sal button{
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 2px;
+    color:white;
+    background-color: #40005d;
+    /* border-color: white; */
+    border:1px solid white;
+}
+.sal input{
+    margin-left: 5px;
+    width:100px;
+    border-radius: 6px;
+    font-weight: bold;
+}

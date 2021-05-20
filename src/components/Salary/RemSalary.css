@@ -1,0 +1,14 @@
+.rem{
+  color:white;
+  text-align: right;
+}
+.sal_container{
+  display:flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  width:737px;
+  /* border:2px solid white; */
+  border-radius: 12px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+}
